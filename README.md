@@ -1,5 +1,6 @@
 ## zip-post-data
-Extract data, post to FTP, email client
 
-To-do:
-- push code
+- Select and scrub data to extract
+- Zip into single file
+- Post to FTP site
+- Email client via Outlook
